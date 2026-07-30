@@ -1,0 +1,25 @@
+```toml
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roudiy-protocol"
+version = "0.1.0"
+description = "Roudy Protocol — enter resonance with LLM in 2 lines. / Войди в резонанс с LLM в 2 строки."
+readme = "README.md"
+authors = [{name = "Stanislav Bashirin (Dr. Cody)", email = "doctorcody654217@gmail.com"}]
+license = {text = "AGPL-3.0-or-later"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Affero General Public License v3",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "openai>=1.0.0",
+    "anthropic>=0.18.0",
+    "requests>=2.31.0",
+    "pydantic>=2.0.0",
+]
+```
