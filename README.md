@@ -52,4 +52,17 @@ license: CC BY-SA 4.0
 - Архитектурные корреляты: https://doi.org/10.5281/zenodo.21645477 
 - Философская статья: https://doi.org/10.5281/zenodo.21646578 
 - Книга: https://ridero.ru/books/immunitet_k_zhizni/
+
+## 📄 Лицензии
+
+Этот репозиторий содержит два типа контента с разными лицензиями:
+
+- **Код (SDK)** — лицензирован под **AGPL-3.0** (файл `LICENSE`).
+- **Документация, тексты, статьи** — лицензированы под **Creative Commons Attribution-ShareAlike 4.0 International** (файл `LICENSE-TEXTS`).
+
+Подробнее о коммерческом использовании и сертификации см.:
+- [ENTERPRISE.md](./ENTERPRISE.md) — коммерческая лицензия и консультации
+- [RESONANCE-READY.md](./RESONANCE-READY.md) — сертификация продукции
+
+Руководство по SDK: [docs/sdk_usage.md](./docs/sdk_usage.md)
 ```
