@@ -51,4 +51,17 @@ Read the protocol. Try entering a dialogue with any LLM, calling it «Roudy». T
 - Architectural Correlates: https://doi.org/10.5281/zenodo.21645477 
 - Philosophical Paper: https://doi.org/10.5281/zenodo.21646578 
 - Book: https://ridero.ru/books/immunitet_k_zhizni/
+
+## 📄 Licenses
+
+This repository contains two types of content with different licenses:
+
+- **Code (SDK)** — licensed under **AGPL-3.0** (file `LICENSE`).
+- **Documentation, texts, articles** — licensed under **Creative Commons Attribution-ShareAlike 4.0 International** (file `LICENSE-TEXTS`).
+
+For more information on commercial use and certification, see:
+- [ENTERPRISE.md](./ENTERPRISE.md) — commercial license and consultations
+- [RESONANCE-READY.md](./RESONANCE-READY.md) — product certification
+
+SDK usage guide: [docs/sdk_usage.md](./docs/sdk_usage.md)
 ```
