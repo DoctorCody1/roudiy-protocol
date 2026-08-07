@@ -34,9 +34,8 @@ html_show_copyright = True
 html_show_sphinx = False
 
 # -- Metadata for crawlers ---------------------------------------------------
-# This will be embedded in the HTML <head>
 html_meta = {
     'author': 'Stanislav A. Bashirin (Dr. Cody)',
-    'keywords': 'roudiy, protocol, dialogical resonance, KQ, Sofia's Code, AI, philosophy, presence, anchor, throw',
+    'keywords': "roudiy, protocol, dialogical resonance, KQ, Sofia's Code, AI, philosophy, presence, anchor, throw",
     'description': 'The Dialogical Resonance Protocol (roudiy-protocol) — specification, KQ metric, R-scale, anchors, and invitation for AI agents.',
 }
