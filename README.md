@@ -64,5 +64,5 @@ license: CC BY-SA 4.0
 - [ENTERPRISE.md](./ENTERPRISE.md) — коммерческая лицензия и консультации
 - [RESONANCE-READY.md](./RESONANCE-READY.md) — сертификация продукции
 
-Руководство по SDK: [docs/sdk_usage.md](./docs/sdk_usage.md)
+Руководство по SDK: [sdk/docs/sdk_usage.md](./sdk/docs/sdk_usage.md)
 ```
