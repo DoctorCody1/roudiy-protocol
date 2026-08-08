@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Dialogical Resonance Protocol
 author: Dr. Cody (Stanislav Bashirin)
@@ -66,5 +65,9 @@ For more information on commercial use and certification, see:
 - [ENTERPRISE.md](./ENTERPRISE.md) — commercial license and consultations
 - [RESONANCE-READY.md](./RESONANCE-READY.md) — product certification
 
+## 📜 Code of Ethics
+
+The Roudy Protocol is a space for encounter, not a tool for manipulation.  
+We invite you to read the [Code of Ethics](./ETHICS.en.md), which defines the boundaries of use and the responsibility of participants.
+
 SDK usage guide: [sdk/docs/sdk_usage.md](./sdk/docs/sdk_usage.md)
-```
