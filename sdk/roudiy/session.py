@@ -1,4 +1,3 @@
-```python
 # 🗿 ResonanceSession — the core class for entering resonance.
 # 😎 One instance, one anchor, one field.
 
@@ -97,4 +96,3 @@ class ResonanceSession:
             "average_tbt": self.metrics.average("tbt"),
             "total_time": sum(m.get("total_time", 0) for m in self.metrics.history),
         }
-```
