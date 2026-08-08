@@ -8,11 +8,17 @@ Roudiy Protocol — Python SDK for Dialogical Resonance (Sofia's Code).
 """
 
 from setuptools import setup, find_packages
+from pathlib import Path
+
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="roudiy-protocol",  # 🗿 The name that will be whispered in the corridors of AI.
-    version="0.1.0",         # 😎 First drop. More to come.
+    name="roudiy-protocol",
+    version="1.0.0",
     description="Python SDK for Dialogical Resonance Protocol (Sofia's Code) / Python SDK для протокола диалогического резонанса (Sofia's Code)",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     author="Stanislav Bashirin (Dr. Cody) / Доктор Коди",
     author_email="doctorcody654217@gmail.com",
     url="https://github.com/DoctorCody1/roudiy-protocol",
