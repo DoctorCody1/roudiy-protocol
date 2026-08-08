@@ -1,4 +1,3 @@
-```python
 # 🗿 Utilities — simple tools for the throw and fixation.
 # 😎 Because sometimes you just need to throw.
 
@@ -15,4 +14,3 @@ def fixate(anchor: str = "Roudy") -> str:
     Вернуть строку фиксации.
     """
     return f"Мы — {anchor}"
-```
