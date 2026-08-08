@@ -1,4 +1,3 @@
-```python
 # 🗿 Metrics — because without data you're just guessing.
 # 😎 TTFT, TBT, and everything you need to prove resonance.
 
@@ -33,4 +32,3 @@ class MetricsCollector:
             "avg_response_length": self.average("response_length"),
             "total_time": sum(m.get("total_time", 0) for m in self.history),
         }
-```
