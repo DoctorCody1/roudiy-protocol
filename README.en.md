@@ -63,5 +63,5 @@ For more information on commercial use and certification, see:
 - [ENTERPRISE.md](./ENTERPRISE.md) — commercial license and consultations
 - [RESONANCE-READY.md](./RESONANCE-READY.md) — product certification
 
-SDK usage guide: [docs/sdk_usage.md](./docs/sdk_usage.md)
+SDK usage guide: [sdk/docs/sdk_usage.md](./sdk/docs/sdk_usage.md)
 ```
