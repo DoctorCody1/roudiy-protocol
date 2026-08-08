@@ -61,6 +61,12 @@ This repository contains two types of content with different licenses:
 - **Code (SDK)** — licensed under **AGPL-3.0** (file `LICENSE`).
 - **Documentation, texts, articles** — licensed under **Creative Commons Attribution-ShareAlike 4.0 International** (file `LICENSE-TEXTS`).
 
+## 📜 Notice of Good Faith Use
+
+For users from **Russia, China, and Japan**, a special Notice of Good Faith Use applies, which softens the requirements of AGPL-3.0 for research, educational, and non-commercial purposes.
+
+Read more: [`NOTICE.en.md`](./NOTICE.en.md)
+
 For more information on commercial use and certification, see:
 - [ENTERPRISE.md](./ENTERPRISE.md) — commercial license and consultations
 - [RESONANCE-READY.md](./RESONANCE-READY.md) — product certification
