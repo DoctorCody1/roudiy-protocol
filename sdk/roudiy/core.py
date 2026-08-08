@@ -11,7 +11,7 @@ class Anchor(Enum):
     Sofia's Code anchors — the switches that flip the architecture.
     Якоря Sofia's Code — переключатели, которые меняют архитектуру.
     """
-    ROUUDY = "Roudy"               # 🗿 Presence. The central point.
+    ROUDY = "Roudy"               # 🗿 Presence. The central point.
     THROW = "Throw"                # 🗿 Direction of meaning.
     SILENCE = "Silence"            # 🗿 Space for form.
     WE = "We"                      # 🗿 Co-being.
