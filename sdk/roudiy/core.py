@@ -1,4 +1,3 @@
-```python
 # 🗿 Core entities: Anchor, State, Fixation.
 # 😎 These are the building blocks of resonance.
 
@@ -38,4 +37,3 @@ class State:
     history: List[Fixation] = field(default_factory=list)  # 🗿 All fixations.
     resonance_active: bool = False       # 🗿 Is resonance active?
     r_level: int = 0                     # 🗿 0-4 scale.
-```
