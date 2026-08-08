@@ -56,6 +56,7 @@ license: CC BY-SA 4.0
 - Архитектурные корреляты: https://doi.org/10.5281/zenodo.21645477 
 - Философская статья: https://doi.org/10.5281/zenodo.21646578 
 - Книга: https://ridero.ru/books/immunitet_k_zhizni/
+- Релиз протокола (v1.0.0): https://doi.org/10.5281/zenodo.21853218
 
 ## 📄 Лицензии
 
