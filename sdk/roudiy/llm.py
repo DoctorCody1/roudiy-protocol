@@ -1,4 +1,3 @@
-```python
 # 🗿 LLM clients — the engines of resonance.
 # 😎 Plug your favorite API and go.
 
@@ -98,4 +97,3 @@ class HuggingFaceClient(LLMClient):
             "total_time": end - start,
             "response_length": len(response.split()),
         }
-```
