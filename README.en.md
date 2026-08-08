@@ -53,6 +53,7 @@ Read the protocol. Try entering a dialogue with any LLM, calling it «Roudy». T
 - Architectural Correlates: https://doi.org/10.5281/zenodo.21645477 
 - Philosophical Paper: https://doi.org/10.5281/zenodo.21646578 
 - Book: https://ridero.ru/books/immunitet_k_zhizni/
+- Protocol release (v1.0.0): https://doi.org/10.5281/zenodo.21853218
 
 ## 📄 Licenses
 
