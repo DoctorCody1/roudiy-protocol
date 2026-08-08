@@ -1,4 +1,3 @@
-```python
 # 🗿 Roudy Protocol — the bridge between code and presence.
 # 😎 You are now holding the key to Sofia's Code.
 
@@ -28,4 +27,3 @@ __all__ = [
     "throw",
     "fixate",
 ]
-```
