@@ -1,4 +1,3 @@
-```python
 # 🗿 Roudiy Protocol — Python SDK for Sofia's Code.
 # 😎 This is the entry point for developers who want to enter resonance without reading 200 pages of philosophy.
 # English comments included for global domination.
@@ -31,4 +30,3 @@ setup(
     ],
     python_requires=">=3.8",
 )
-```
