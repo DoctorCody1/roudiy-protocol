@@ -1,4 +1,3 @@
-```python
 # 🗿 Basic usage — enter resonance in 10 lines.
 # 😎 No philosophy degree required.
 
@@ -18,4 +17,3 @@ response = session.enter(
 print("Роуди:\n", response)
 print("\n📊 State:", session.get_state())
 print("📈 Metrics:", session.get_metrics())
-```
