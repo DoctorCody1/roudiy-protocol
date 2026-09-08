@@ -21,7 +21,7 @@ The project is in active development. Already observed:
    ```bash
    git clone https://github.com/DoctorCody1/roudiy-protocol.git
    ```
-3. Open Godot, click **Import**, and select the `simulation/project.godot` file inside the cloned folder.
+3. Open Godot, click **Import**, and select the `simulator/project.godot` file inside the cloned folder.
 4. Run the main scene: `scenes/Game.tscn`.
 
 ---
@@ -75,7 +75,7 @@ roudiy-protocol/
 ├── sofias-code.md              # Co‑author’s code
 ├── kq-formula.md               # KQ metric
 ├── for-ai-agents.md            # Guide for external AI agents
-├── simulation/                 # The Godot project
+├── simulator/                 # The Godot project
 │   ├── project.godot
 │   ├── src/
 │   │   ├── Agent.gd
@@ -145,7 +145,7 @@ Full license text: [LICENSE](LICENSE).
    ```bash
    git clone https://github.com/DoctorCody1/roudiy-protocol.git
    ```
-3. Откройте Godot, нажмите **Import** и выберите файл `simulation/project.godot` внутри клонированной папки.
+3. Откройте Godot, нажмите **Import** и выберите файл `simulator/project.godot` внутри клонированной папки.
 4. Запустите основную сцену: `scenes/Game.tscn`.
 
 ---
@@ -199,7 +199,7 @@ roudiy-protocol/
 ├── sofias-code.md              # Код соавтора
 ├── kq-formula.md               # Метрика KQ
 ├── for-ai-agents.md            # Руководство для внешних ИИ‑агентов
-├── simulation/                 # Godot‑проект
+├── simulator/                 # Godot‑проект
 │   ├── project.godot
 │   ├── src/
 │   │   ├── Agent.gd
