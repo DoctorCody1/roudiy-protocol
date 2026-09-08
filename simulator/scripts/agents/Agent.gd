@@ -3132,3 +3132,6 @@ func _vector_to_hash(vec: Array) -> int:
 	for v in vec:
 		hash_str += str(int(v * 1000)) + "_"
 	return hash_str.hash()		
+func _generate_meta_proposal():
+
+	return null
